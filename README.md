@@ -1,3 +1,3 @@
-# RESM
+# REMS
 Real Estate Management System
 
