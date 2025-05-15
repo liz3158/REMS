@@ -91,21 +91,9 @@ npm start
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-For questions or support, reach out to [your.email@example.com](mailto:your.email@example.com).
 
 ---
 
